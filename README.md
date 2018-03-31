@@ -1,6 +1,6 @@
 # RollDice
 Rolling Dice game implemented in python for n number of players.
-The number of rounds can also be deicded in the start.
+The number of rounds can also be decided in the start.
 
 
 Rules of the game:
